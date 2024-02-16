@@ -1,1 +1,2 @@
 Proje oluşturuldu.
+Kullanıcı arayüzü tamamlandı.
